@@ -149,7 +149,11 @@ img {
     justify-content: space-between;
     align-items: center
 }
-
+.footer{
+    color: #fff;
+    line-height: 1.5;
+    text-align: center;
+}
 .rating span {
     color: var(--carribean-green)
 }
